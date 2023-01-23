@@ -4,7 +4,7 @@
 
 Bootcamp: Module 11 Challenge <br />
 Express.js Challenge: Note Taker <br />
-Codebase correction that follows accessibility standards so that the site is optimized for search engines
+Codebase correction that follows accessibility standards so that the site is optimized for search engines <br />
 Uses: Express 4.16.4 <br />
 Uses: uuid: 9.0.0<br />
 
